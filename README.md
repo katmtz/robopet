@@ -10,11 +10,17 @@ Additionally, the states are encoded to single character strings serially output
 STATES
 ---------------
 1 - ATTENTION
+
 2 - MOVE FORWARD
+
 3 - MOVE BACKWARD
+
 4 - MOVE LEFT
+
 5 - MOVE RIGHT
+
 6 - HAPPY
+
 7 - DO A TRICK
 
 0 - IDLE
